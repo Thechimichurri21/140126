@@ -1,5 +1,5 @@
 package actividad1;
-
+//Hansel Altamirano
 import java.util.Scanner;
 
 public class CalculadoraMisteriosa {
