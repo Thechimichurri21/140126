@@ -1,5 +1,5 @@
 package actividad1;
-//Hansel Altamirano
+//Hansel Altamirano Murillo
 //e
 import java.util.Scanner;
 
